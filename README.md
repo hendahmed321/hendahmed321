@@ -24,26 +24,6 @@ I work on:
 
 ---
 
-## 📌 Featured Projects
-
-### 🏬 Retail Data Warehouse
-A complete data warehouse solution for retail analytics using Python, SQL Server, and Power BI.  
-**Highlights:** Data modeling, ETL pipelines, analytical dashboards.
-
-### 💳 Financial Transactions Data Warehouse
-End-to-end ETL pipeline for financial transaction data including transformation, storage, and reporting.
-
-### 🎓 Students Exam Scores Analysis
-Full data analysis workflow with preprocessing, SQL storytelling, Power BI dashboards, and machine learning predictive models.
-
-### 🕷 Web Scraping Projects
-Collection of web scraping projects from websites, databases, and files, followed by data cleaning and visualization.
-
-### 💻 eBay Laptops Price Tracker
-Automated price tracking system with web scraping, MongoDB storage, and analytics.
-
----
-
 ## 🌱 Currently Focusing On
 - Advanced ETL & Data Warehouse design  
 - Performance optimization in data pipelines  
